@@ -1,1 +1,0 @@
-# Implementacao-AV1-CG
